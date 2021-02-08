@@ -22,12 +22,12 @@
 
   footer {
       font-weight: bold;
-      padding: 5px;
+      padding: 1px;
       position: static;
       left: 0;
       bottom: 0;
       width: 100%;
-      background-color: antiquewhite;
+      background-color: rgb(255, 239, 218);
   }
   nav {
     font-weight: bold;
