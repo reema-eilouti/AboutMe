@@ -1,12 +1,12 @@
 'use strict';
 
-prompt('Hey there! Welcome to my site.');
-prompt('Let\'s get to know each other, shall we?');
+alert('Hey there! Welcome to my site.');
+alert('Let\'s get to know each other, shall we?');
 
 let userName = prompt('What\'s your name?');
-prompt('Greetings ' + userName + '! Happy to see you here :)');
+alert('Greetings ' + userName + '! Happy to see you here :)');
 
-prompt('Let\'s see how well you can guess my favorites!');
+alert('Let\'s see how well you can guess my favorites!');
 
 let favoriteColor = prompt('Do you think my favorite color is Black? (Yes/No)');
 if (favoriteColor.toLowerCase() == 'yes' || favoriteColor.toLowerCase() == 'y'){
