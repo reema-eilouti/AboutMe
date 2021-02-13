@@ -10,7 +10,8 @@
 
   header nav ul li {
     display: inline-block;
-    padding: 10px;
+    padding: 13px;
+    margin-inline: 29px;
   }
 
 
@@ -22,12 +23,12 @@
 
   footer {
       font-weight: bold;
-      padding: 1px;
+      padding: 5px;
       position: static;
       left: 0;
       bottom: 0;
       width: 100%;
-      background-color: rgb(255, 239, 218);
+      background-color: antiquewhite;
   }
   nav {
     font-weight: bold;
